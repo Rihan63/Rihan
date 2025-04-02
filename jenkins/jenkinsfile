@@ -1,0 +1,14 @@
+pipeline{
+    
+    agent any
+    
+    stages{
+        stage("satge1"){
+            stpes{
+                sh""""""
+                echo "Bulid is completed"
+                """""""
+            }
+        }
+    }
+}
